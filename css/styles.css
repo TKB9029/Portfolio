@@ -39,6 +39,23 @@ header img{
   opacity: 0.9;
 }
 
+.btn2{
+  text-decoration: none;
+  background: #f59a00;
+  color: #fff;
+  display: block;
+  width: 140px;
+  line-height: 44px;
+  margin: 40px auto 48px;
+  font-size: 14px;
+  font-weight: bold;
+  border-radius: 4px;
+}
+
+.btn2:hover{
+  opacity: 0.9;
+}
+
 .features img{
   width: 100%;
 }
@@ -162,3 +179,10 @@ header .pic{
   width: 250px;
 }
 }
+
+.box{
+  width: 100px;
+  height: 100px;
+  background: orange;
+}
+

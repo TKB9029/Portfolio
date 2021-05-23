@@ -13,6 +13,7 @@
     getEl() {
       return this.el;
     }
+
     activate(num) {
       this.el.classList.remove('pressed');
       this.el.textContent = num;
@@ -28,7 +29,7 @@
         }
       }
     }
-
+    
   }
 
   class Board {

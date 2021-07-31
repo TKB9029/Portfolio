@@ -13,7 +13,8 @@ header{
 }
 
 header h1,
-header p{
+header p,
+header a{
   margin: 0;
 }
 

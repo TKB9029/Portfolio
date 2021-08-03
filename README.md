@@ -2,4 +2,4 @@
 
 ## 使用技術
 
-HTML、CSS、Javascript
+HTML、CSS、Javascript、vue.js

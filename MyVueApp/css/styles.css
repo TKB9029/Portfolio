@@ -4,9 +4,9 @@ body{
 }
 
 #app a {
-  font-size: 17px;
+  font-size: 16px;
   font-family: Verdana, sans-serif;
-  padding-top: 20px;
+  margin: 20px auto;
 }
 
 .container{

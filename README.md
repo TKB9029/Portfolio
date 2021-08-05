@@ -1,7 +1,9 @@
 # 概要
 
-ポートフォリオサイトに使っているソースコードになります。
+ポートフォリオサイトで使用しているソースコードになります。
+HTML、CSS、Javascriptを中心に三つのWebアプリを作成いたしました。
+ToDoアプリではVue.jsを使用しております。
 
 ## 使用技術
 
-HTML、CSS、Javascript、vue.js
+HTML、CSS、Javascript、Vue.js
